@@ -69,8 +69,11 @@ title: Study progess for the AZ-103 exam objectives.
 ### Configure Azure files
 
 - [x]  create Azure file share
-- [ ]  create Azure File Sync service
-- [ ]  create Azure sync group
+  - det är vad det låter som
+- [x]  create Azure File Sync service
+  - ett nytt blad man tankar hem från Azure Marketplace
+- [x]  create Azure sync group
+  - sättet man konfar registrerade servrar. sövägar mm.
 - [ ]  troubleshoot Azure File Sync
 
 ### Implement Azure backup
@@ -86,7 +89,10 @@ title: Study progess for the AZ-103 exam objectives.
 ### Create and configure a VM for Windows and Linux
 
 - [ ]  configure high availability
-- [ ]  configure monitoring, networking, storage, and virtual machine size
+- [ ]  configure monitoring
+  - [ ]  networking
+  - [ ]  storage
+  - [ ]  virtual machine size
 - [ ]  deploy and configure scale sets
 
 ### Automate deployment of VMs
