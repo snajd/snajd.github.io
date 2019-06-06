@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Windows Defender Application Control & Code Integrity Policies
-permalink: /WDAC-CI/
 ---
 
 ### All WDAC posts
