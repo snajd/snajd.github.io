@@ -25,7 +25,7 @@ description: it för it's skull
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Windows 10 Security: "http://snajd.github.io/w10sec/"
+    - Windows Security Resources: "http://snajd.github.io/winsec/"
   Author's home: "http://snajd.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
