@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: This is supposed to be a professional blog
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Robin Engström. I work as a senior technical arcitect in a consluting firm in Stockholm called (Coligo AB)[http://www.coligo.se]
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My focus areas are primarily:
 
-What else do you need?
+- Client and Server Management
+- Security
+- PowerShell
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
