@@ -23,7 +23,7 @@ description: it for it's sake
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Resources:
     - Windows Security Resources: "http://snajd.github.io/pages/winsec/"
   Badges: "https://www.youracclaim.com/users/robinengstrom/badges"
