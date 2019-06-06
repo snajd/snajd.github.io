@@ -6,9 +6,9 @@ title: Windows Defender Application Control & Code Integrity Policies
 ### All WDAC posts
 
 {% for category in site.categories %}
-    <h3>{{ category[0] }}</h3>
+    <h3>{{ tag[0] }}</h3>
     <ul>
-        {% for post in category[1] %}
+        {% for post in tag[1] %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
