@@ -15,4 +15,4 @@ My focus areas are primarily:
 
 ## Certifications
 
-![{{site.url}}/img/cissp-logo-small.png]
+!({{site.url}}/img/cissp-logo-small.png)
