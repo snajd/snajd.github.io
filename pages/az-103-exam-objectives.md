@@ -50,11 +50,11 @@ title: Study progess for the AZ-103 exam objectives.
 
 ### Create and configure storage accounts
 
-- [ ]  configure network access to the storage account
+- [x]  configure network access to the storage account
 - [x]  create and configure storage account
 - [x]  generate shared access signature
 - [x]  install and use Azure Storage Explorer
-- [ ]  manage access keys
+- [x]  manage access keys
 - [ ]  monitor activity log by using Log Analytics
 - [ ]  implement Azure storage replication
 
@@ -79,10 +79,11 @@ title: Study progess for the AZ-103 exam objectives.
 ### Implement Azure backup
 
 - [ ]  configure and review backup reports
-- [ ]  perform backup operation
-- [ ]  create Recovery Services Vault
-- [ ]  create and configure backup policy
+- [x]  perform backup operation
+- [x]  create Recovery Services Vault
+- [x]  create and configure backup policy
 - [ ]  perform a restore operation
+  - [ ]  testa att göra en riktig restore. ska vara fyra steg enligt udemy.
 
 ## Deploy and manage virtual machines (VMs) (15-20%)
 
@@ -90,19 +91,19 @@ title: Study progess for the AZ-103 exam objectives.
 
 - [ ]  configure high availability
 - [ ]  configure monitoring
-  - [ ]  networking
-  - [ ]  storage
-  - [ ]  virtual machine size
+- [ ]  configure networking
+- [ ]  configure storage
+- [ ]  configure virtual machine size
 - [ ]  deploy and configure scale sets
 
 ### Automate deployment of VMs
 
-- [ ]  modify Azure Resource Manager (ARM) template
+- [x]  modify Azure Resource Manager (ARM) template
 - [ ]  configure location of new VMs
 - [ ]  configure VHD template
-- [ ]  deploy from template
-- [ ]  save a deployment as an ARM template
-- [ ]  deploy Windows and Linux VMs
+- [x]  deploy from template
+- [x]  save a deployment as an ARM template
+- [x]  deploy Windows and Linux VMs
 
 ### Manage Azure VM
 
@@ -133,25 +134,25 @@ title: Study progess for the AZ-103 exam objectives.
 
 ### Implement and manage virtual networking
 
-- [ ]  configure private and public IP addresses
-    - [ ]  network routes
-    - [ ]  network
-    - [ ]  interface
-    - [ ]  subnets
-    - [ ]  virtual network
+- [x]  configure private and public IP addresses
+- [x]  configure network
+- [x]  configure network routes
+- [x]  configure interface
+- [x]  configure subnets
+- [x]  configure virtual network
 
 ### Configure name resolution
 
-- [ ]  configure Azure DNS
-- [ ]  configure custom DNS settings
-- [ ]  configure private and public DNS zones
+- [x]  configure Azure DNS
+- [x]  configure custom DNS settings
+- [x]  configure private and public DNS zones
 
 ### Create and configure a Network Security Group (NSG)
 
-- [ ]  create security rules
-- [ ]  associate NSG to a subnet or network interface
-- [ ]  identify required ports
-- [ ]  evaluate effective security rules
+- [x]  create security rules
+- [x]  associate NSG to a subnet or network interface
+- [x]  identify required ports
+- [x]  evaluate effective security rules
 
 ### Implement Azure load balancer
 
@@ -180,9 +181,9 @@ title: Study progess for the AZ-103 exam objectives.
 
 ### Manage Azure Active Directory (AD)
 
-- [ ]  add custom domains
+- [x]  add custom domains
 - [ ]  Azure AD Join
-- [ ]  configure self- [ ] service password reset
+- [ ]  configure self-service password reset
 - [ ]  manage multiple directories
 
 ### Manage Azure AD objects (users, groups, and devices)
