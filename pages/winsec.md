@@ -17,3 +17,8 @@ title: Collection of Windows Security resources
 
 * [Great article about things you need to think about when securing Configuration Manager](https://www.altrhomb.us/2019/06/04/configuration-manager-security-and-you/)
 
+## Telemtry
+
+https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Workpackage4_Telemetry.pdf?__blob=publicationFile&v=4
+
+https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Analyse_Telemetriekomponente.pdf?__blob=publicationFile&v=5
