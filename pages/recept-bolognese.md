@@ -4,11 +4,10 @@ title: Recept på spagetti bolognese
 ---
 
 
-# Spagetti Bolognese
 
 Ett recept löst baserat på det i Pluras kokbok.
 
-## Ingridienser 
+# Ingridienser 
 Lagom till fyra mycket hungriga personer.
 
 * Två gula lökar
@@ -27,7 +26,7 @@ Lagom till fyra mycket hungriga personer.
 * 1 msk smör
 * 1 msk olivolja
 
-## Tillbehör
+# Tillbehör
 
 * En vass kniv
 * En stor gryta med tjock botten. Bör rymma minst 4 liter.
@@ -35,7 +34,7 @@ Lagom till fyra mycket hungriga personer.
 * En liten skål eller djup tallrik
 * Ett fat
 
-### Förberedelser
+## Förberedelser
 
 Innan man sätter igång behöver man ha hackat, skurit, öppat och tärnat allt som ska vara i såsen. Det gör att saker och ting kan adderas i rätt tid, t.ex om det ska brynas länge eller kort tid, eller bara koka med.
 
@@ -56,15 +55,15 @@ Lägg buljongstärningen i ett dricksglas med c:a 1 dl vatten och sätt i mikrov
 
 Glöm inte ta fram vinet, om du inte redan gjort detta.
 
-#### Om du valt bacon
+### Om du valt bacon
 
 Skär baconet i små bitar, förslagsvis små tärningar och lägg på samma tallrik som den gula löken. Baconet behöver nämligen brynas.
 
-#### Om du valt rökt sidfläsk eller pancetta
+### Om du valt rökt sidfläsk eller pancetta
 
 Skär fläsket i små bitar, förslagsvis små tärningar och lägg den tillsammans med rotfrukterna.
 
-### Tillagning
+## Tillagning
 
 Nu har det blivit dags att börja steka.
 
