@@ -1,3 +1,9 @@
+---
+layout: page
+title: Recept på spagetti bolognese
+---
+
+
 # Spagetti Bolognese
 
 Ett recept löst baserat på det i Pluras kokbok.
@@ -21,6 +27,14 @@ Lagom till fyra mycket hungriga personer.
 * 1 msk smör
 * 1 msk olivolja
 
+## Tillbehör
+
+* En vass kniv
+* En stor gryta med tjock botten. Bör rymma minst 4 liter.
+* En stor skål eller djup tallrik
+* En liten skål eller djup tallrik
+* Ett fat
+
 ### Förberedelser
 
 Innan man sätter igång behöver man ha hackat, skurit, öppat och tärnat allt som ska vara i såsen. Det gör att saker och ting kan adderas i rätt tid, t.ex om det ska brynas länge eller kort tid, eller bara koka med.
@@ -38,22 +52,21 @@ Avsluta med att hacka vitlöken i så små bitar du kan. Lägg vitlöken på ett
 
 Öppna de två burkarna med hela tomater. Ta sedan en kniv och stick ner den några gånger i varje burk så tomaterna punkteras.
 
-Lägg buljonstärningen i ett dricksglas med c:a 1 dl vatten och sätt i mikrovågsugnen på 40 sekunder. När det plingat tar du en tesked och rör runt så buljongen blandas med vattnet.
+Lägg buljongstärningen i ett dricksglas med c:a 1 dl vatten och sätt i mikrovågsugnen på 40 sekunder. När det plingat tar du en tesked och rör runt så buljongen blandas med vattnet.
 
 Glöm inte ta fram vinet, om du inte redan gjort detta.
 
-#### Om du valt bacon:
+#### Om du valt bacon
 
 Skär baconet i små bitar, förslagsvis små tärningar och lägg på samma tallrik som den gula löken. Baconet behöver nämligen brynas.
 
-#### Om du valt rökt sidfläsk eller pancetta:
+#### Om du valt rökt sidfläsk eller pancetta
 
 Skär fläsket i små bitar, förslagsvis små tärningar och lägg den tillsammans med rotfrukterna.
 
 ### Tillagning
 
 Nu har det blivit dags att börja steka.
-
 
 Använd den största plattan och sätt temperaturen på nästan max.
 Lägg ner smöret och häll på lite olivolja.
