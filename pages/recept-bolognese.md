@@ -3,7 +3,6 @@
 Ett recept löst baserat på det i Pluras kokbok.
 Av Robin Engström.
 
-
 ## Ingridienser 
 För fyra mycket hungriga personer.
 
@@ -77,7 +76,7 @@ Justera värmen så det bubblar lite, men inte mer.
 Låt koka i minst en timme. Glöm inte att sätta igång med pastavatten en stund innan så inte klockan blir för mycket innan det är dags att äta!
 
 Det ska se ut ungefär så här när det är färdigt:
-[!bild på köttfärs](img/recept/bolognese.jpg)
+![bild på köttfärs](/img/recept/bolognese.jpg)
 
 
 
