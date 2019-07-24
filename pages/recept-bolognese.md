@@ -3,7 +3,7 @@
 Ett recept löst baserat på det i Pluras kokbok.
 
 ## Ingridienser 
-För fyra mycket hungriga personer.
+Lagom till fyra mycket hungriga personer.
 
 * Två gula lökar
 * Två morötter
@@ -23,7 +23,7 @@ För fyra mycket hungriga personer.
 
 ### Förberedelser
 
-Innan man sätter igång behöver man ha hackat, skurit och tärnat allt som ska vara i såsen. Det gör att saker och ting kan adderas i rätt tid, t.ex om det ska brynas länge eller kort tid, eller bara koka med.
+Innan man sätter igång behöver man ha hackat, skurit, öppat och tärnat allt som ska vara i såsen. Det gör att saker och ting kan adderas i rätt tid, t.ex om det ska brynas länge eller kort tid, eller bara koka med.
 
 Börja med att skala morötterna och rotsellerin. Rotselleri kan vara lite lurigt om man aldrig skalat en sådan tidigare, men använd kniv för att ta bort svarta och bruna partier och skala resten med samma typ av skalare som du använde till morötterna. Den ska vara helt vit och fräsch när den är färdisskalad.
 
