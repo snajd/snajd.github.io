@@ -1,7 +1,6 @@
 # Spagetti Bolognese
 
 Ett recept löst baserat på det i Pluras kokbok.
-Av Robin Engström.
 
 ## Ingridienser 
 För fyra mycket hungriga personer.
