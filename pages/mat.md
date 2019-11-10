@@ -27,6 +27,7 @@ Maträtter som man inspireras av...
 * schnitzel
 * canneloni
 * raggmunk med fläsk
+* pannbiff med lök
 
 ## Fågel
 
