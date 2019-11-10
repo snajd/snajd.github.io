@@ -26,6 +26,7 @@ Maträtter som man inspireras av...
 * Lotta Lundgrens kalvragu
 * schnitzel
 * canneloni
+* raggmunk med fläsk
 
 ## Fågel
 
@@ -33,6 +34,7 @@ Maträtter som man inspireras av...
 * mapu dofu
 * hel kyckling i ugn
 * kyckling med curry
+* coq au vin
 
 ## Fisk
 
@@ -43,6 +45,7 @@ Maträtter som man inspireras av...
 * Lotta Lotta citronpasta med pilgrimsmusslor
 * rökt lax med dillstuvad potatis
 * röding (recept från goda grejer)
+* rårakor med kallrökt lax, smetana och annat krafs
 
 ## Veg
 
