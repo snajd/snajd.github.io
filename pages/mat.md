@@ -36,6 +36,7 @@ Maträtter som man inspireras av...
 * hel kyckling i ugn
 * kyckling med curry
 * coq au vin
+* currygryta med kokosmjölk
 
 ## Fisk
 
@@ -58,3 +59,5 @@ Maträtter som man inspireras av...
 * palak paneer
 * paulo robertos krämiga svamp och spenatpasta
 * potatisgratäng
+* butternut-pastan
+* vodkapasta
