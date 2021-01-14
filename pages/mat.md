@@ -48,6 +48,7 @@ Maträtter som man inspireras av...
 * rökt lax med dillstuvad potatis
 * röding (recept från goda grejer)
 * rårakor med kallrökt lax, smetana och annat krafs
+* Fiskcurry
 
 ## Veg
 
