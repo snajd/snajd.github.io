@@ -37,6 +37,7 @@ Maträtter som man inspireras av...
 * kyckling med curry
 * coq au vin
 * currygryta med kokosmjölk
+* currykyckling
 
 ## Fisk
 
