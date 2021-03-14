@@ -15,6 +15,7 @@ Maträtter som man inspireras av...
 * lasagne
 * tacos
 * stekt salsiccia med Lotta Lundgrens fänkålslinser
+* salsicciapasta
 * italienska köttbullar
 * biff rydberg
 * biff med bea
